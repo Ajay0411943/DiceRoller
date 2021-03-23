@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dicecup</string>
+    <string name="headerText">Dicecup version 1</string>
+</resources>
